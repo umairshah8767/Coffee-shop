@@ -2,7 +2,7 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
-import "swiper/css/pagination";
+import 'swiper/css/pagination';
 import Image from "next/image";
 import { Autoplay, Pagination } from "swiper/modules";
 import Button from './Button'; // Import the Button component
